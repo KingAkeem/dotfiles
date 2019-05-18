@@ -82,4 +82,6 @@ let g:ycm_min_num_of_chars_for_completion = 2
 let g:ycm_min_num_identifier_candidate_chars = 3
 let g:ycm_enable_diagnostic_highlight = 0
 let g:ycm_add_preview_to_completeopt = 0
+let g:ycm_global_ycm_extra_conf='~/.vimpkg/bundle/YouCompleteMe/third_party/ycmd/.ycm_extra_conf.py'
+
 colorscheme monokai_pro
